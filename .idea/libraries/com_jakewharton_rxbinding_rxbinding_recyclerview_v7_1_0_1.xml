@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.jakewharton.rxbinding:rxbinding-recyclerview-v7-1.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rxbinding-recyclerview-v7-1.0.1.aar/7582019885f52ebd4dfb7f1bca6c6761/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rxbinding-recyclerview-v7-1.0.1.aar/7582019885f52ebd4dfb7f1bca6c6761/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.rxbinding/rxbinding-recyclerview-v7/1.0.1/3d6811d903f2071b147056dd4d9c5509fe2e1bc4/rxbinding-recyclerview-v7-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
